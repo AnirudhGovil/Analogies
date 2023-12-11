@@ -1,0 +1,10 @@
+{"stem": ["alphabet", "letter"], "answer": ["orchestra", "instrument"], "choice": [["data", "quantity"], ["novel", "mystery"], ["orchestra", "instrument"], ["synthesis", "opinion"]], "prefix": "SCAT UL"}
+{"stem": ["calf", "cow"], "answer": ["puppy", "dog"], "choice": [["puppy", "dog"], ["shell", "turtle"], ["horse", "bull"], ["nest", "bird"]], "prefix": "SCAT UL"}
+{"stem": ["radiant", "somber"], "answer": ["ample", "scant"], "choice": [["savory", "delightful"], ["ample", "scant"], ["intrepid", "obvious"], ["pandemonium", "din"]], "prefix": "SCAT UL"}
+{"stem": ["esteem", "admirable"], "answer": ["disdain", "repugnant"], "choice": [["favor", "contentious"], ["disdain", "repugnant"], ["disapproval", "imitated"], ["envy", "dismissed"]], "prefix": "SCAT UL"}
+{"stem": ["likeness", "caricature"], "answer": ["photograph", "portrait"], "choice": [["poem", "song"], ["photograph", "portrait"], ["drama", "parody"], ["fiction", "nonfiction"]], "prefix": "SCAT UL"}
+{"stem": ["pseudonym", "author"], "answer": ["alias", "lawbreaker"], "choice": [["alias", "lawbreaker"], ["title", "nobility"], ["mask", "costumer"], ["degree", "scholar"]], "prefix": "SCAT UL"}
+{"stem": ["myopia", "nearsightedness"], "answer": ["vertigo", "dizziness"], "choice": [["apoplexy", "anger"], ["vertigo", "dizziness"], ["neurosis", "psychosis"], ["epidemic", "fever"]], "prefix": "SCAT UL"}
+{"stem": ["symphony", "note"], "answer": ["painting", "brushstroke"], "choice": [["painting", "brushstroke"], ["graph", "bar"], ["code", "language"], ["novel", "short story"]], "prefix": "SCAT UL"}
+{"stem": ["hermit", "solitary"], "answer": ["pessimist", "negative"], "choice": [["inquisitor", "malicious"], ["politician", "eloquent"], ["pessimist", "negative"], ["donor", "sacrificial"]], "prefix": "SCAT UL"}
+{"stem": ["principal", "school"], "answer": ["president", "nation"], "choice": [["consultant", "government"], ["senator", "congress"], ["president", "nation"], ["advisor", "court"]], "prefix": "SCAT UL"}
